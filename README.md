@@ -33,7 +33,7 @@ Dynamics Modeling".
 <h3 align="center">Official repository of Deep Latent Particles v3 (DLPv3) & LPWM</h3>
 
 <h4 align="center"><a href="">Arxiv</a> • <a href="https://taldatech.github.io/lpwm-web">Project
-Website</a> • <a href="">Video</a> • <a href="https://openreview.net/forum?id=lTaPtGiUUc">OpenReview</a></h4>
+Website</a> • <a href="https://youtu.be/aZeaCyXJjYI">Video</a> • <a href="https://openreview.net/forum?id=lTaPtGiUUc">OpenReview</a></h4>
 
 <h4 align="center">
     <a href="https://colab.research.google.com/github/taldatech/lpwm"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
