@@ -1,0 +1,15 @@
+accelerate==1.5.2
+einops==0.8.0
+h5py==3.6.0
+imageio==2.37.0
+matplotlib==3.10.1
+numpy==1.26.4
+opencv_python==4.11.0.86
+piqa==1.3.2
+Requests==2.32.3
+scikit-image
+torch==2.6.0
+torchvision==0.21.0
+tqdm==4.67.1
+ttkthemes==3.2.2
+ttkwidgets==0.13.0
