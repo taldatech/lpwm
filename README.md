@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/conference-ICLR%202026-orange" />
   <img src="https://img.shields.io/badge/pytorch-%E2%89%A52.6-blue" />
   <img src="https://img.shields.io/badge/license-MIT-green" />
-  <img src="https://img.shields.io/badge/arXiv-2401.xxxxx-b31b1b" />
+  <img src="https://img.shields.io/badge/arXiv-2603.04553-b31b1b" />
 </p>
 
 Official PyTorch implementation of the paper "Latent Particle World Models: Self-supervised Object-centric Stochastic
