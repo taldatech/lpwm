@@ -152,7 +152,8 @@ def train_ddlp(config_path='./configs/balls.json'):
     num_res_blocks = config["num_res_blocks"]
     cnn_mid_blocks = config.get('cnn_mid_blocks', False)
     mlp_hidden_dim = config.get('mlp_hidden_dim', 256)
-    use_ep_done_mask = config.get('ep_done_mask', False)
+    use_ep_done_mask = config.get('ep_done_mask', False)  # original
+    # use_ep_done_mask = config.get('use_ep_done_mask', False)  # correct
 
     # actions
     action_condition = config.get('action_condition', False)
